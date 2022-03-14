@@ -1,0 +1,14 @@
+C:\Users\tu7eay65k\Desktop\clas\Gun\Gun\obj\Debug\netcoreapp3.1\Gun.csproj.AssemblyReference.cache
+C:\Users\tu7eay65k\Desktop\clas\Gun\Gun\obj\Debug\netcoreapp3.1\Gun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7eay65k\Desktop\clas\Gun\Gun\obj\Debug\netcoreapp3.1\Gun.AssemblyInfoInputs.cache
+C:\Users\tu7eay65k\Desktop\clas\Gun\Gun\obj\Debug\netcoreapp3.1\Gun.AssemblyInfo.cs
+C:\Users\tu7eay65k\Desktop\clas\Gun\Gun\obj\Debug\netcoreapp3.1\Gun.csproj.CoreCompileInputs.cache
+C:\Users\tu7eay65k\Desktop\clas\Gun\Gun\bin\Debug\netcoreapp3.1\Gun.exe
+C:\Users\tu7eay65k\Desktop\clas\Gun\Gun\bin\Debug\netcoreapp3.1\Gun.deps.json
+C:\Users\tu7eay65k\Desktop\clas\Gun\Gun\bin\Debug\netcoreapp3.1\Gun.runtimeconfig.json
+C:\Users\tu7eay65k\Desktop\clas\Gun\Gun\bin\Debug\netcoreapp3.1\Gun.runtimeconfig.dev.json
+C:\Users\tu7eay65k\Desktop\clas\Gun\Gun\bin\Debug\netcoreapp3.1\Gun.dll
+C:\Users\tu7eay65k\Desktop\clas\Gun\Gun\bin\Debug\netcoreapp3.1\Gun.pdb
+C:\Users\tu7eay65k\Desktop\clas\Gun\Gun\obj\Debug\netcoreapp3.1\Gun.dll
+C:\Users\tu7eay65k\Desktop\clas\Gun\Gun\obj\Debug\netcoreapp3.1\Gun.pdb
+C:\Users\tu7eay65k\Desktop\clas\Gun\Gun\obj\Debug\netcoreapp3.1\Gun.genruntimeconfig.cache
