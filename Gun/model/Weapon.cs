@@ -48,6 +48,7 @@ namespace Gun.model
             {
                 Console.WriteLine("You Must Reload Gun");
             }
+
         }
         public void Fire()
         {
